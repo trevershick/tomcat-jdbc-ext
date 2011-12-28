@@ -1,4 +1,4 @@
-My Tomcat JDBC Extension
+# My Tomcat JDBC Extension #
 
  I had an issue with a long running SQL in spring batch. The problem
  was ultimately that the extract would run, and for each rs.next() it
@@ -10,3 +10,5 @@ My Tomcat JDBC Extension
  this interceptor to extend that ResetAbandonedTimer class and reset the
  timer on calls to next().
  
+# Warning #
+*This is not being used in production in any way*
