@@ -12,3 +12,7 @@
  
 # Warning #
 *This is not being used in production in any way*
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/trevershick/tomcat-jdbc-ext/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
